@@ -1,11 +1,5 @@
 # PCAP Log Analysis with a Browser-Based Network Traffic Triage Tool
 
-![Category](https://img.shields.io/badge/Category-Network%20Security%20Monitoring-1f6feb)
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Capture-1679A7?logo=wireshark&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Browser%20Tool-F7DF1E?logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 **Lab report | Osita Kingsley Odo | October 2026**
 
 ## Table of Contents
