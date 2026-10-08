@@ -1,19 +1,5 @@
 # PCAP Log Analysis with a Browser-Based Network Traffic Triage Tool
 
-**Lab report | Osita Kingsley Odo | October 2026**
-
-## Table of Contents
-
-1. [Objective](#1-objective)
-2. [Environment and Tools](#2-environment-and-tools)
-3. [Capturing the Traffic](#3-capturing-the-traffic)
-4. [Exporting and Loading the Capture](#4-exporting-and-loading-the-capture)
-5. [Findings](#5-findings)
-6. [Improvements Made After the First Test](#6-improvements-made-after-the-first-test)
-7. [Lessons Learnt](#7-lessons-learnt)
-
----
-
 ## 1. Objective
 
 The aim of this lab was to capture real network traffic in a controlled environment, analyse it with a triage tool I designed, and produce a shareable report that a SOC analyst could use as a starting point for investigation. The lab also tested how the tool handles privacy, since packet captures contain IP addresses that should not always appear in reports.
